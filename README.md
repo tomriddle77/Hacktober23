@@ -39,4 +39,7 @@ DOMAIN/LANGUGAE : <br>
 
 ## STEP-3. Wait for Pull Request to merge
 
-## STEP-4. Celebrate - you've done your first pull request!!
+## STEP-4. Celebrate - you've done your first pull request!! You are a step ahead to get swags.
+
+## STEP-5. Add profile picture to Contributers_Profile for remembering that you contributed to this repository.
+
